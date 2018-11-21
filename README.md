@@ -1,11 +1,11 @@
-R code examples to teach basic Web scraping with `rvest` and related packages.
+R code examples to teach basic Web scraping with [`rvest`](https://cran.r-project.org/package=rvest) and related packages.
 
 Used at a [two-day workshop][a] in November 2018: refer to the [introductory slides][b], in French, for details.
 
 [a]: https://sygefor.reseau-urfist.fr/#/training/7432/8123/?from=true
 [b]: https://frama.link/urfist-2018-slides
 
-> Please report any __bugs or errors__ in the [issues](issues) of this repository, or [email me](mailto:f.briatte@gmail.com).
+> Please report any __bugs or errors__ in the [issues](/briatte/urfist2018) of this repository, or [email me](mailto:f.briatte@gmail.com).
 
 # DEMOS
 
@@ -27,7 +27,7 @@ Slides shown but not included in the repository (available on request):
 
 # HOWTO
 
-1. Run the `dependencies.r` script to install all required packages.
+1. Run the [`dependencies.r`](dependencies.r) script to install all required packages.
 2. Run each code folder separately. Each has its own `.Rproj` file.
 
 # THANKS
