@@ -33,5 +33,5 @@ Slides shown but not included in the repository (available on request):
 # THANKS
 
 - Sabrina Granger and Isabelle Scarpat-Bouvet for excellent logistics.
-- Thomas J. Leeper for the `word_count` function used in the `cop21` example.
+- Thomas J. Leeper for his [`word_count` function](https://gist.github.com/leeper/0d0c1ee2c671e03db21bbc45acf6b351), used in the `cop21` example.
 - Emiliano Grossman for inspiring the `qosd` example.
